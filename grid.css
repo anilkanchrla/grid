@@ -1,0 +1,6 @@
+div{
+    display: grid; background-color: aqua;
+    padding: 10px 15px;
+    text-align: center;
+    margin: 2px solid black;
+}
